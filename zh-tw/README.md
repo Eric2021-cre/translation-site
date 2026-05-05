@@ -22,8 +22,8 @@
 ---
 
 ## 🚀 立即委託
-<a href="contact.html" class="cta-btn">📩 諮詢・委託翻譯</a>
-<a href="services/README.html" class="cta-btn">💼 查看服務與價格</a>
+<a href="contact.md" class="cta-btn">📩 諮詢・委託翻譯</a>
+<a href="services/README.md" class="cta-btn">💼 查看服務與價格</a>
 
 ---
 
