@@ -41,11 +41,11 @@ Here are some real examples showing the quality difference between raw AI output
 
 | Category | Volume |
 |----------|--------|
-| Business documents & emails | ●● projects |
-| Websites & landing pages | ●● projects |
-| Books & publications | ●● titles |
-| E-books (public domain) | ●● titles |
-| Technical documents & manuals | ●● projects |
+| Business documents & emails | 1300 projects |
+| Websites & landing pages | 720 projects |
+| Books & publications | 1 titles |
+| E-books (public domain) | 2 titles |
+| Technical documents & manuals | 320 projects |
 
 ---
 
