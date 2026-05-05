@@ -22,9 +22,12 @@
 ---
 
 ## 🚀 立即委託
+<div class="cta-buttons">
 
-[📩 諮詢・委託翻譯](contact.md)　　[💼 查看服務與價格](services/README.md)
+<a href="zh-tw/contact.md" class="cta-btn">📩 諮詢・委託翻譯</a>
+<a href="zh-tw/services/README.md" class="cta-btn">💼 查看服務與價格</a>
 
+</div>
 ---
 
 ## 💬 選擇我的理由
