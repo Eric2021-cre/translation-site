@@ -54,9 +54,8 @@
 
   <input type="text" name="_gotcha" style="display:none" />
 
-  <button type="submit" class="submit-btn">送信する 📨</button>
+  <button type="submit" class="submit-btn">送信する 📨</button>  
 </form>
-
 </div>
 
 ---
