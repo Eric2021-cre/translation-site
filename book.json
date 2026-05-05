@@ -1,0 +1,27 @@
+{
+  "title": "フリーランス翻訳者サービス",
+  "description": "日中・中日翻訳サービス ｜ 翻訳・校正・電子書籍",
+  "author": "あなたのお名前",
+  "language": "ja",
+  "plugins": [
+    "-search",
+    "-lunr",
+    "-sharing",
+    "-livereload"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    }
+  },
+  "styles": {
+    "website": "assets/css/custom.css"
+  },
+  "variables": {
+    "email": "rsg60231@nifty.com",
+    "buymeacoffee": "https://www.buymeacoffee.com/",
+    "coconalaURL": "https://coconala.com/",
+    "kindleURL": "https://www.amazon.co.jp/",
+    "googlePlayURL": "https://play.google.com/store/books"
+  }
+}

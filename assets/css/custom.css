@@ -1,0 +1,119 @@
+/* =============================================
+   フリーランス翻訳者サイト カスタムCSS
+   ============================================= */
+
+/* --- CTAボタン --- */
+.cta-buttons a {
+  display: inline-block;
+  margin: 6px 8px;
+  padding: 12px 24px;
+  background: #2c7a7b;
+  color: #fff !important;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none !important;
+  transition: background 0.2s;
+}
+.cta-buttons a:hover {
+  background: #1a5a5b;
+}
+
+/* --- ヒーローブロック --- */
+.hero-block {
+  background: linear-gradient(135deg, #e6f7f7 0%, #f0fafa 100%);
+  border-left: 4px solid #2c7a7b;
+  padding: 20px 24px;
+  border-radius: 0 8px 8px 0;
+  margin: 20px 0;
+  font-size: 1.05em;
+}
+
+/* =============================================
+   お問い合わせフォーム
+   ============================================= */
+
+.contact-form-wrapper {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-group label {
+  font-weight: 600;
+  font-size: 0.95em;
+  color: #333;
+}
+
+.required {
+  color: #e53e3e;
+  margin-left: 2px;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  padding: 10px 14px;
+  border: 1px solid #cbd5e0;
+  border-radius: 6px;
+  font-size: 1em;
+  font-family: inherit;
+  background: #fff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: #2c7a7b;
+  box-shadow: 0 0 0 3px rgba(44,122,123,0.15);
+}
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.submit-btn {
+  display: inline-block;
+  padding: 14px 32px;
+  background: #2c7a7b;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.05em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+  align-self: flex-start;
+}
+
+.submit-btn:hover {
+  background: #1a5a5b;
+  transform: translateY(-1px);
+}
+
+.submit-btn:active {
+  transform: translateY(0);
+}
+
+/* レスポンシブ */
+@media (max-width: 600px) {
+  .submit-btn {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "freelance-translator-site",
+  "version": "1.0.0",
+  "description": "フリーランス翻訳者サイト｢中国語専科WAYAKU｣（Honkit）",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve",
+    "build:all": "npm run build"
+  },
+  "devDependencies": {
+    "honkit": "latest"
+  }
+}
