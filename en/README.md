@@ -22,8 +22,8 @@ Accurate. Natural. Delivered on time.
 ---
 
 ## 🚀 Get Started
-<a href="contact.md" class="cta-btn">📩 Request a Quote</a>
-<a href="services/README.md" class="cta-btn">💼 See Services & Pricing</a>
+<a href="contact.html" class="cta-btn">📩 Request a Quote</a>
+<a href="services/README.html" class="cta-btn">💼 See Services & Pricing</a>
 
 
 ---
