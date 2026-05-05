@@ -54,8 +54,7 @@
   <input type="text" name="_gotcha" style="display:none" />
 
   <button type="submit" class="submit-btn">送出 📨</button>
-</form>
-</div>
+
 
 ---
 

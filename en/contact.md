@@ -55,10 +55,6 @@ I usually reply within **24 hours**.
 
   <button type="submit" class="submit-btn">Send Message 📨</button>
 
-</form>
-
-</div>
-
 ---
 
 ## ⏰ Response Hours
