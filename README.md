@@ -59,4 +59,4 @@
 
 ---
 
-*© 2025 [TraSpeZH] | [English](en/README.md) | [中文（简体）](zh-cn/README.md) | [中文（繁體）](zh-tw/README.md)*
+*© 2025 [中国語専科WAYAKU] | [English](en/README.md) | [中文（简体）](zh-cn/README.md) | [中文（繁體）](zh-tw/README.md)*
