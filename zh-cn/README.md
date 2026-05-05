@@ -24,8 +24,8 @@
 ## 🚀 立即委托
 <div class="cta-buttons">
 
-<a href="zh-cn/contact.md" class="cta-btn">📩 咨询・委托翻译</a>
-<a href="zh-cn/services/README.md" class="cta-btn">💼 查看服务与价格</a>
+<a href="contact.md" class="cta-btn">📩 咨询・委托翻译</a>
+<a href="services/README.md" class="cta-btn">💼 查看服务与价格</a>
 
 </div>
 
