@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "honkit": "latest"
+  },
+  "dependencies": {
+    "gitbook-plugin-ga": "^2.0.0"
   }
 }
