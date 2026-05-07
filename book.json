@@ -11,6 +11,9 @@
     "-livereload"
   ],
   "pluginsConfig": {
+    "ga": {
+      "token": "G-VBEL892V6V"
+    },
     "theme-default": {
       "showLevel": false
     }

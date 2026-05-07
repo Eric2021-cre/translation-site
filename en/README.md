@@ -50,7 +50,7 @@ Chinese (Traditional) ⇔  Japanese *To guarantee high quality, my Japanese-to-C
 
 ## 📚 E-books Available
 
-TraSpeZH offer services for translating public domain literature and authorized documents directly from copyright holders, including professional e-book formatting.
+中国語専科WAYAKU offer services for translating public domain literature and authorized documents directly from copyright holders, including professional e-book formatting.
 
 [📖 Visit the E-book Store](books/README.md)
 
