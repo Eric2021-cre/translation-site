@@ -52,7 +52,15 @@
 著作权到期的日本古典名著，附现代中文译文与注释，在Kindle和Google Play Books上有售。WAYAKU承接版权已过期的、版权持有者直接要求的文件和经典著作的翻译，以及电子书格式的转换。
 
 [📖 前往电子书商店](books/README.md)
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HT66YG18J9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-HT66YG18J9');
+</script>
 ---
 
 *© 2025 [中国語専科WAYAKU] | [日本語](../README.md) | [English](../en/README.md) | [中文（繁體）](../zh-tw/README.md)*

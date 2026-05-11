@@ -53,7 +53,15 @@ Chinese (Traditional) ⇔  Japanese *To guarantee high quality, my Japanese-to-C
 中国語専科WAYAKU offer services for translating public domain literature and authorized documents directly from copyright holders, including professional e-book formatting.
 
 [📖 Visit the E-book Store](books/README.md)
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HT66YG18J9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-HT66YG18J9');
+</script>
 ---
 
 *© 2025 [中国語専科WAYAKU] | [日本語](../README.md) | [中文（简体）](../zh-cn/README.md) | [中文（繁體）](../zh-tw/README.md)*

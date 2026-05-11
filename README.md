@@ -56,7 +56,15 @@
 中国語（簡体字） ⇔ 日本語　*品質を保証するため、日本語から中国語に翻訳する場合は、AI翻訳+人間チェックに限定
 中国語（繁体字） ⇔ 日本語　*品質を保証するため、日本語から中国語に翻訳する場合は、AI翻訳+人間チェックに限定
 ```
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HT66YG18J9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-HT66YG18J9');
+</script>
 ---
 
 *© 2025 [中国語専科WAYAKU] | [English](en/README.md) | [中文（简体）](zh-cn/README.md) | [中文（繁體）](zh-tw/README.md)*

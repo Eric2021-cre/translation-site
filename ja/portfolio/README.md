@@ -82,7 +82,15 @@
 
 <!-- 実績スライド挿入場所 -->
 <!-- ![実績サマリースライド](../../assets/images/portfolio-overview.jpg) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HT66YG18J9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-HT66YG18J9');
+</script>
 ---
 
 [💼 サービスと料金を見る](../services/README.md)　　[📩 依頼・相談する](../contact.md)
